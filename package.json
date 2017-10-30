@@ -1,5 +1,5 @@
 {
-  "name": "script-loader",
+  "name": "libvorbis-loader",
   "version": "0.7.2",
   "author": "Tobias Koppers @sokra",
   "description": "script loader module for webpack",
